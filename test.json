@@ -1,0 +1,13 @@
+[{
+        "id": 0,
+        "text": "Some test message",
+        "type": "error",
+        "duration": 0
+    },
+    {
+        "id": 1,
+        "text": "Some new test message",
+        "type": "info",
+        "duration": 0
+    }
+]
